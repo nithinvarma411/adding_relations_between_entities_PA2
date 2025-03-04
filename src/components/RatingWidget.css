@@ -1,0 +1,32 @@
+.rating-widget {
+    margin-top: 10px;
+  }
+  
+  .stars {
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .stars span {
+    padding: 5px;
+    transition: color 0.2s;
+  }
+  
+  .stars .filled {
+    color: gold;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+  
